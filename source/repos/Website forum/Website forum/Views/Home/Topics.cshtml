@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Website_forum.Models.Topic>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1>Topics</h1>
+<table class="table table-dark table-striped">
+
+    <thead>
+        <tr>
+            <th>Topic</th>
+            <th>Post's count</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    @foreach (var topic in Model)
+    {
+        <tr>
+            <td>@topic.Name</td>
+            <td>@topic.Posts.Count()</td>
+            <td>
+                <a asp-controller="Home" asp-action="ListPosts" asp-route-id="@topic.Id" class="btn btn-outline-info">Show posts</a>
+            </td>
+        </tr>
+    }
+</table>
+
+
+<a asp-controller="Home" asp-action="CreateTopic">New topic</a>
+
