@@ -1,0 +1,105 @@
+﻿  Ekzamen123.cpp
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Header.h(10,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Additive.h(101,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Header.h(11,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Clients.h(25,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Clients.h(42,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Clients.h(65,17): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Clients.h(84,18): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Header.h(12,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(173,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(204,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(224,16): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(259,19): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(300,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(319,16): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Header.h(13,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(62,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(127,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(157,45): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(245,51): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(251,55): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(257,51): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(269,55): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(51,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(73,16): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(98,18): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(115,19): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(142,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(168,18): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(189,18): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(232,21): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(289,21): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(348,15): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(363,17): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\CoffeeHouse.h(416,17): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "Ekzamen123.cpp")
+  
+C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\Ekzamen\Coffee.h(347): warning C4715: Coffee::addCoffee: значение возвращается не при всех путях выполнения
+  Ekzamen.vcxproj -> C:\Users\teran\Desktop\CoffeeHouse_cmd-master\Desktop\Ekzamen C++\x64\Debug\Ekzamen.exe

@@ -1,0 +1,9 @@
+Chocolate Syrup:5
+Caramel Syrup:7
+Mohito Syrup:11
+Vanilla Syrup:11
+Pistachio Syrup:13
+Whipped Cream:5.8
+Chopped Chocolate:5.8
+Marshmallow:11
+Ice Cream:7.8
