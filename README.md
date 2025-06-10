@@ -1,4 +1,4 @@
-Simple C++ console project Coffe Houce
+Simple C++ console project Coffe Houce 
 
 The Barista can:
   Add new coffee types and additives, 
@@ -9,3 +9,6 @@ The Client can:
   View how much they have spent
 
 Data is stored in simple text (.txt) files
+
+
+(2019)
